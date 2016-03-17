@@ -1,0 +1,1925 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simplicity v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-08 18:35+0800\n"
+"PO-Revision-Date: 2014-10-08 18:35+0800\n"
+"Last-Translator: 1 <a@163.com>\n"
+"Language-Team: weidea.net\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+# @ qode
+#: ../simplicity/404.php:10 404.php:10
+msgid "404"
+msgstr "404"
+
+# @ qode
+#: ../simplicity/404.php:11 404.php:11
+msgid "Page not found"
+msgstr "找不到网页"
+
+# @ qode
+#: ../simplicity/404.php:18 404.php:18
+msgid "The page you requested does not exist"
+msgstr "您请求的页面不存在"
+
+# @ qode
+#: ../simplicity/404.php:19 404.php:19
+msgid "Back to homepage"
+msgstr "返回首页"
+
+# @ qode
+#: ../simplicity/archive.php:72 archive.php:72
+msgid "Archive"
+msgstr "存档"
+
+# @ qode
+#: ../simplicity/archive.php:122 ../simplicity/archive.php:144
+#: ../simplicity/archive.php:165 ../simplicity/archive.php:191
+#: ../simplicity/archive.php:216 ../simplicity/archive.php:237
+#: ../simplicity/archive.php:273 ../simplicity/archive.php:298
+#: ../simplicity/archive.php:319 ../simplicity/archive.php:348
+#: ../simplicity/blog-boxes.php:109 ../simplicity/blog-boxes.php:129
+#: ../simplicity/blog-boxes.php:149
+#: ../simplicity/blog-full-width-image.php:113
+#: ../simplicity/blog-full-width-image.php:136
+#: ../simplicity/blog-full-width-image.php:168
+#: ../simplicity/blog-standard.php:109 ../simplicity/blog-standard.php:134
+#: ../simplicity/blog-standard.php:168 ../simplicity/category.php:105
+#: ../simplicity/category.php:127 ../simplicity/category.php:148
+#: ../simplicity/category.php:174 ../simplicity/category.php:199
+#: ../simplicity/category.php:220 ../simplicity/category.php:256
+#: ../simplicity/category.php:281 ../simplicity/category.php:302
+#: ../simplicity/category.php:331 ../simplicity/home.php:121
+#: ../simplicity/home.php:143 ../simplicity/home.php:164
+#: ../simplicity/home.php:190 ../simplicity/home.php:215
+#: ../simplicity/home.php:236 ../simplicity/home.php:272
+#: ../simplicity/home.php:297 ../simplicity/home.php:318
+#: ../simplicity/home.php:347 ../simplicity/index.php:106
+#: ../simplicity/index.php:128 ../simplicity/index.php:149
+#: ../simplicity/index.php:175 ../simplicity/index.php:200
+#: ../simplicity/index.php:221 ../simplicity/index.php:257
+#: ../simplicity/index.php:282 ../simplicity/index.php:303
+#: ../simplicity/index.php:332 ../simplicity/search.php:105
+#: ../simplicity/search.php:127 ../simplicity/search.php:148
+#: ../simplicity/search.php:174 ../simplicity/search.php:199
+#: ../simplicity/search.php:220 ../simplicity/search.php:256
+#: ../simplicity/search.php:281 ../simplicity/search.php:302
+#: ../simplicity/search.php:331 archive.php:122 archive.php:144
+#: archive.php:165 archive.php:191 archive.php:216 archive.php:237
+#: archive.php:273 archive.php:298 archive.php:319 archive.php:348
+#: blog-boxes.php:109 blog-boxes.php:129 blog-boxes.php:149
+#: blog-full-width-image.php:113 blog-full-width-image.php:136
+#: blog-full-width-image.php:168 blog-standard.php:109 blog-standard.php:134
+#: blog-standard.php:168 category.php:105 category.php:127 category.php:148
+#: category.php:174 category.php:199 category.php:220 category.php:256
+#: category.php:281 category.php:302 category.php:331 home.php:121
+#: home.php:143 home.php:164 home.php:190 home.php:215 home.php:236
+#: home.php:272 home.php:297 home.php:318 home.php:347 index.php:106
+#: index.php:128 index.php:149 index.php:175 index.php:200 index.php:221
+#: index.php:257 index.php:282 index.php:303 index.php:332 search.php:105
+#: search.php:127 search.php:148 search.php:174 search.php:199 search.php:220
+#: search.php:256 search.php:281 search.php:302 search.php:331
+msgid "No posts were found."
+msgstr "没有找到文章。"
+
+# @ qode
+#: ../simplicity/comments.php:4 comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "这是一篇受密码保护的文章。输入密码以查看任何评论。"
+
+# @ qode
+#: ../simplicity/comments.php:28 comments.php:28
+msgid "Sorry, the comment form is closed at this time."
+msgstr "抱歉，评论表单此时已关闭。"
+
+# @ qode
+#: ../simplicity/comments.php:41 comments.php:41
+msgid "Post A Comment"
+msgstr "发表评论"
+
+# @ qode
+#: ../simplicity/comments.php:42 comments.php:42
+#, php-format
+msgid "Post A Reply to %s"
+msgstr "发表回复 %s"
+
+# @ qode
+#: ../simplicity/comments.php:43 comments.php:43
+msgid "Cancel Reply"
+msgstr "取消回复"
+
+# @ qode
+#: ../simplicity/comments.php:44 comments.php:44
+msgid "Submit"
+msgstr "提交"
+
+# @ qode
+#: ../simplicity/comments.php:45 comments.php:45
+msgid "Write your message here..."
+msgstr "在这里写下您的留言......"
+
+# @ qode
+#: ../simplicity/comments.php:49 comments.php:49
+msgid "Your Full Name"
+msgstr "您的全名"
+
+# @ qode
+#: ../simplicity/comments.php:50 comments.php:50
+msgid "E-mail Address"
+msgstr "电子邮件地址"
+
+# @ qode
+#: ../simplicity/comments.php:51 comments.php:51
+msgid "Website"
+msgstr "网站"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:88
+#: ../simplicity/contact-page.php:105 ../simplicity/contact-page.php:182
+#: contact-page-full-width-map.php:88 contact-page.php:105
+#: contact-page.php:182
+msgid "Send A Message"
+msgstr "发送信息"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:93
+#: ../simplicity/contact-page.php:110 ../simplicity/contact-page.php:187
+#: contact-page-full-width-map.php:93 contact-page.php:110
+#: contact-page.php:187
+msgid "First Name *"
+msgstr "名字*"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:98
+#: ../simplicity/contact-page.php:115 ../simplicity/contact-page.php:192
+#: contact-page-full-width-map.php:98 contact-page.php:115
+#: contact-page.php:192
+msgid "Last Name *"
+msgstr "姓*"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:103
+#: ../simplicity/contact-page-full-width-map.php:109
+#: ../simplicity/contact-page.php:120 ../simplicity/contact-page.php:126
+#: ../simplicity/contact-page.php:197 ../simplicity/contact-page.php:203
+#: contact-page-full-width-map.php:103 contact-page-full-width-map.php:109
+#: contact-page.php:120 contact-page.php:126 contact-page.php:197
+#: contact-page.php:203
+msgid "Email *"
+msgstr "电子邮件*"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:114
+#: ../simplicity/contact-page.php:131 ../simplicity/contact-page.php:208
+#: contact-page-full-width-map.php:114 contact-page.php:131
+#: contact-page.php:208
+msgid "Web site"
+msgstr "网站"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:120
+#: ../simplicity/contact-page.php:137 ../simplicity/contact-page.php:214
+#: contact-page-full-width-map.php:120 contact-page.php:137
+#: contact-page.php:214
+msgid "Message"
+msgstr "信息"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:147
+#: contact-page-full-width-map.php:147
+msgid "CONTACT US"
+msgstr "联系我们"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:184
+#: ../simplicity/contact-page.php:270 contact-page-full-width-map.php:184
+#: contact-page.php:270
+msgid " Required"
+msgstr "需要"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:196
+#: ../simplicity/contact-page.php:282 contact-page-full-width-map.php:196
+#: contact-page.php:282
+msgid " Invalid"
+msgstr "无效"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:231
+#: ../simplicity/contact-page.php:317 contact-page-full-width-map.php:231
+#: contact-page.php:317
+msgid "THANK YOU!"
+msgstr "谢谢！"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:231
+#: ../simplicity/contact-page.php:317 contact-page-full-width-map.php:231
+#: contact-page.php:317
+msgid ""
+"Your email was successfully sent. We will contact you as soon as possible."
+msgstr "您的邮件已成功发送。我们将尽快与您联系。"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:243
+#: ../simplicity/contact-page.php:329 contact-page-full-width-map.php:243
+#: contact-page.php:329
+msgid "Invalid Captcha"
+msgstr "验证码无效"
+
+# @ qode
+#: ../simplicity/contact-page-full-width-map.php:252
+#: ../simplicity/contact-page.php:338 contact-page-full-width-map.php:252
+#: contact-page.php:338
+msgid "Email server problem"
+msgstr "电子邮件服务器的问题"
+
+# @ qode
+#: ../simplicity/contact-page.php:164 ../simplicity/contact-page.php:241
+#: contact-page.php:164 contact-page.php:241
+msgid "Contact Us"
+msgstr "联系我们"
+
+# @ qode
+#: ../simplicity/format_blog-audio.php:24
+#: ../simplicity/format_blog_box-audio.php:12
+#: ../simplicity/format_blog_full-audio.php:23
+#: ../simplicity/format_single-audio.php:16 format_blog-audio.php:24
+#: format_blog_box-audio.php:12 format_blog_full-audio.php:23
+#: format_single-audio.php:16
+msgid "Your browser don't support audio player"
+msgstr "您的浏览器不支持音频播放器"
+
+# @ qode
+#: ../simplicity/format_blog-audio.php:30
+#: ../simplicity/format_blog-gallery.php:39
+#: ../simplicity/format_blog-link.php:23
+#: ../simplicity/format_blog-quote.php:23
+#: ../simplicity/format_blog-standard.php:32
+#: ../simplicity/format_blog-video.php:36
+#: ../simplicity/format_blog_full-audio.php:27
+#: ../simplicity/format_blog_full-gallery.php:37
+#: ../simplicity/format_blog_full-link.php:23
+#: ../simplicity/format_blog_full-quote.php:23
+#: ../simplicity/format_blog_full-standard.php:29
+#: ../simplicity/format_blog_full-video.php:37
+#: ../simplicity/format_single-audio.php:21
+#: ../simplicity/format_single-gallery.php:30
+#: ../simplicity/format_single-link.php:23
+#: ../simplicity/format_single-quote.php:22
+#: ../simplicity/format_single-standard.php:25
+#: ../simplicity/format_single-video.php:31
+#: ../simplicity/widgets/format_blog-standard.php:29 format_blog-audio.php:30
+#: format_blog-gallery.php:39 format_blog-link.php:23 format_blog-quote.php:23
+#: format_blog-standard.php:32 format_blog-video.php:36
+#: format_blog_full-audio.php:27 format_blog_full-gallery.php:37
+#: format_blog_full-link.php:23 format_blog_full-quote.php:23
+#: format_blog_full-standard.php:29 format_blog_full-video.php:37
+#: format_single-audio.php:21 format_single-gallery.php:30
+#: format_single-link.php:23 format_single-quote.php:22
+#: format_single-standard.php:25 format_single-video.php:31
+#: widgets/format_blog-standard.php:29
+msgid "Posted by"
+msgstr "发表于"
+
+# @ qode
+#: ../simplicity/format_blog-audio.php:30
+#: ../simplicity/format_blog-gallery.php:39
+#: ../simplicity/format_blog-link.php:23
+#: ../simplicity/format_blog-quote.php:23
+#: ../simplicity/format_blog-standard.php:32
+#: ../simplicity/format_blog-video.php:36
+#: ../simplicity/format_blog_box-audio.php:16
+#: ../simplicity/format_blog_box-gallery.php:25
+#: ../simplicity/format_blog_box-link.php:11
+#: ../simplicity/format_blog_box-quote.php:11
+#: ../simplicity/format_blog_box-standard.php:18
+#: ../simplicity/format_blog_box-video.php:22
+#: ../simplicity/format_blog_full-audio.php:27
+#: ../simplicity/format_blog_full-gallery.php:37
+#: ../simplicity/format_blog_full-link.php:23
+#: ../simplicity/format_blog_full-quote.php:23
+#: ../simplicity/format_blog_full-standard.php:29
+#: ../simplicity/format_blog_full-video.php:37
+#: ../simplicity/format_single-audio.php:21
+#: ../simplicity/format_single-gallery.php:30
+#: ../simplicity/format_single-link.php:23
+#: ../simplicity/format_single-quote.php:22
+#: ../simplicity/format_single-standard.php:25
+#: ../simplicity/format_single-video.php:31
+#: ../simplicity/widgets/format_blog-standard.php:29 format_blog-audio.php:30
+#: format_blog-gallery.php:39 format_blog-link.php:23 format_blog-quote.php:23
+#: format_blog-standard.php:32 format_blog-video.php:36
+#: format_blog_box-audio.php:16 format_blog_box-gallery.php:25
+#: format_blog_box-link.php:11 format_blog_box-quote.php:11
+#: format_blog_box-standard.php:18 format_blog_box-video.php:22
+#: format_blog_full-audio.php:27 format_blog_full-gallery.php:37
+#: format_blog_full-link.php:23 format_blog_full-quote.php:23
+#: format_blog_full-standard.php:29 format_blog_full-video.php:37
+#: format_single-audio.php:21 format_single-gallery.php:30
+#: format_single-link.php:23 format_single-quote.php:22
+#: format_single-standard.php:25 format_single-video.php:31
+#: widgets/format_blog-standard.php:29
+msgid "in"
+msgstr "在"
+
+# @ qode
+#: ../simplicity/format_blog-audio.php:35
+#: ../simplicity/format_blog-gallery.php:44
+#: ../simplicity/format_blog-standard.php:37
+#: ../simplicity/format_blog-video.php:41
+#: ../simplicity/format_blog_box-audio.php:24
+#: ../simplicity/format_blog_box-gallery.php:33
+#: ../simplicity/format_blog_box-standard.php:26
+#: ../simplicity/format_blog_box-video.php:30
+#: ../simplicity/format_blog_full-audio.php:27
+#: ../simplicity/format_blog_full-gallery.php:37
+#: ../simplicity/format_blog_full-standard.php:29
+#: ../simplicity/format_blog_full-video.php:37
+#: ../simplicity/widgets/format_blog-standard.php:34 format_blog-audio.php:35
+#: format_blog-gallery.php:44 format_blog-standard.php:37
+#: format_blog-video.php:41 format_blog_box-audio.php:24
+#: format_blog_box-gallery.php:33 format_blog_box-standard.php:26
+#: format_blog_box-video.php:30 format_blog_full-audio.php:27
+#: format_blog_full-gallery.php:37 format_blog_full-standard.php:29
+#: format_blog_full-video.php:37 widgets/format_blog-standard.php:34
+msgid "no comment"
+msgstr "没有评论"
+
+# @ qode
+#: ../simplicity/format_blog-audio.php:35
+#: ../simplicity/format_blog-gallery.php:44
+#: ../simplicity/format_blog-standard.php:37
+#: ../simplicity/format_blog-video.php:41
+#: ../simplicity/format_blog_box-audio.php:24
+#: ../simplicity/format_blog_box-gallery.php:33
+#: ../simplicity/format_blog_box-standard.php:26
+#: ../simplicity/format_blog_box-video.php:30
+#: ../simplicity/format_blog_full-audio.php:27
+#: ../simplicity/format_blog_full-gallery.php:37
+#: ../simplicity/format_blog_full-standard.php:29
+#: ../simplicity/format_blog_full-video.php:37
+#: ../simplicity/widgets/format_blog-standard.php:34 format_blog-audio.php:35
+#: format_blog-gallery.php:44 format_blog-standard.php:37
+#: format_blog-video.php:41 format_blog_box-audio.php:24
+#: format_blog_box-gallery.php:33 format_blog_box-standard.php:26
+#: format_blog_box-video.php:30 format_blog_full-audio.php:27
+#: format_blog_full-gallery.php:37 format_blog_full-standard.php:29
+#: format_blog_full-video.php:37 widgets/format_blog-standard.php:34
+msgid "comment"
+msgstr "评论"
+
+# @ qode
+#: ../simplicity/format_blog-audio.php:35
+#: ../simplicity/format_blog-gallery.php:44
+#: ../simplicity/format_blog-standard.php:37
+#: ../simplicity/format_blog-video.php:41
+#: ../simplicity/format_blog_box-audio.php:24
+#: ../simplicity/format_blog_box-gallery.php:33
+#: ../simplicity/format_blog_box-standard.php:26
+#: ../simplicity/format_blog_box-video.php:30
+#: ../simplicity/format_blog_full-audio.php:27
+#: ../simplicity/format_blog_full-gallery.php:37
+#: ../simplicity/format_blog_full-standard.php:29
+#: ../simplicity/format_blog_full-video.php:37
+#: ../simplicity/widgets/format_blog-standard.php:34 format_blog-audio.php:35
+#: format_blog-gallery.php:44 format_blog-standard.php:37
+#: format_blog-video.php:41 format_blog_box-audio.php:24
+#: format_blog_box-gallery.php:33 format_blog_box-standard.php:26
+#: format_blog_box-video.php:30 format_blog_full-audio.php:27
+#: format_blog_full-gallery.php:37 format_blog_full-standard.php:29
+#: format_blog_full-video.php:37 widgets/format_blog-standard.php:34
+msgid "comments"
+msgstr "评论"
+
+# @ qode
+#: ../simplicity/functions.php:184 functions.php:184
+msgid "Top Navigation"
+msgstr "顶部导航"
+
+# @ qode
+#: ../simplicity/functions.php:236 functions.php:236
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+# @ qode
+#: ../simplicity/functions.php:490 functions.php:490
+msgid "Portfolio"
+msgstr "作品"
+
+# @ qode
+#: ../simplicity/functions.php:491 functions.php:491
+msgid "Portfolio Item"
+msgstr "作品项目"
+
+# @ qode
+#: ../simplicity/functions.php:492 functions.php:492
+msgid "New Portfolio Item"
+msgstr "新的作品项目"
+
+# @ qode
+#: ../simplicity/functions.php:493 functions.php:493
+msgid "Add New Portfolio Item"
+msgstr "添加新的作品项目"
+
+# @ qode
+#: ../simplicity/functions.php:494 functions.php:494
+msgid "Edit Portfolio Item"
+msgstr "编辑作品项目"
+
+# @ taxonomy general name
+# @ qode
+#: ../simplicity/functions.php:516 ../simplicity/functions.php:526
+#: functions.php:516 functions.php:526
+msgid "Portfolio Categories"
+msgstr "作品类别"
+
+# @ taxonomy singular name
+#: ../simplicity/functions.php:517 functions.php:517
+msgid "Portfolio Category"
+msgstr "作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:518 functions.php:518
+msgid "Search Portfolio Categories"
+msgstr "搜索作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:519 functions.php:519
+msgid "All Portfolio Categories"
+msgstr "全部作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:520 functions.php:520
+msgid "Parent Portfolio Category"
+msgstr "父作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:521 functions.php:521
+msgid "Parent Portfolio Category:"
+msgstr "父作品分类："
+
+# @ qode
+#: ../simplicity/functions.php:522 functions.php:522
+msgid "Edit Portfolio Category"
+msgstr "编辑作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:523 functions.php:523
+msgid "Update Portfolio Category"
+msgstr "更新作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:524 functions.php:524
+msgid "Add New Portfolio Category"
+msgstr "添加新的作品分类"
+
+# @ qode
+#: ../simplicity/functions.php:525 functions.php:525
+msgid "New Portfolio Category Name"
+msgstr "新的作品分类名称"
+
+# @ qode
+#: ../simplicity/functions.php:736
+#: ../simplicity/includes/class-tgm-plugin-activation.php:155
+#: functions.php:736 includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+# @ qode
+#: ../simplicity/functions.php:737
+#: ../simplicity/includes/class-tgm-plugin-activation.php:156
+#: functions.php:737 includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "安装插件"
+
+# @ qode
+#: ../simplicity/functions.php:738
+#: ../simplicity/includes/class-tgm-plugin-activation.php:157
+#: functions.php:738 includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件: %s"
+
+# @ qode
+#: ../simplicity/functions.php:739 functions.php:739
+msgid "Something went wrong with the plugin API."
+msgstr "出错了插件的API。"
+
+# @ qode
+#: ../simplicity/functions.php:740
+#: ../simplicity/includes/class-tgm-plugin-activation.php:159
+#: functions.php:740 includes/class-tgm-plugin-activation.php:159
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "这个主题需要以下插件: %1$s."
+msgstr[1] "这个主题需要以下插件: %1$s."
+
+# @ qode
+#: ../simplicity/functions.php:741
+#: ../simplicity/includes/class-tgm-plugin-activation.php:160
+#: functions.php:741 includes/class-tgm-plugin-activation.php:160
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "这个主题推荐以下插件： %1$s."
+msgstr[1] "这个主题推荐以下插件： %1$s."
+
+# @ qode
+#: ../simplicity/functions.php:742
+#: ../simplicity/includes/class-tgm-plugin-activation.php:161
+#: functions.php:742 includes/class-tgm-plugin-activation.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"很抱歉，您没有安装%s插件的正确权限。联系该网站的管理员在得到安装插件的帮助。"
+msgstr[1] ""
+"很抱歉，您没有安装%s插件的正确权限。联系该网站的管理员在得到安装插件的帮助。"
+
+# @ qode
+#: ../simplicity/functions.php:743
+#: ../simplicity/includes/class-tgm-plugin-activation.php:162
+#: functions.php:743 includes/class-tgm-plugin-activation.php:162
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需的插件是目前无效: %1$s."
+msgstr[1] "以下所需的插件是目前无效: %1$s."
+
+# @ qode
+#: ../simplicity/functions.php:744
+#: ../simplicity/includes/class-tgm-plugin-activation.php:163
+#: functions.php:744 includes/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "下面推荐的插件是目前无效： %1$s."
+msgstr[1] "下面推荐的插件是目前无效： %1$s."
+
+# @ qode
+#: ../simplicity/functions.php:745
+#: ../simplicity/includes/class-tgm-plugin-activation.php:164
+#: functions.php:745 includes/class-tgm-plugin-activation.php:164
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"很抱歉，您没有激活%s 插件的正确权限。联系该网站的管理员在得到插件激活帮助。"
+msgstr[1] ""
+"很抱歉，您没有激活%s 插件的正确权限。联系该网站的管理员在得到插件激活帮助。"
+
+# @ qode
+#: ../simplicity/functions.php:746
+#: ../simplicity/includes/class-tgm-plugin-activation.php:165
+#: functions.php:746 includes/class-tgm-plugin-activation.php:165
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "下面的插件需要更新到最新版本，以确保与这个主题最大的兼容性：%1$s."
+msgstr[1] "下面的插件需要更新到最新版本，以确保与这个主题最大的兼容性：%1$s."
+
+# @ qode
+#: ../simplicity/functions.php:747
+#: ../simplicity/includes/class-tgm-plugin-activation.php:166
+#: functions.php:747 includes/class-tgm-plugin-activation.php:166
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"很抱歉，您没有更新%s 插件的正确权限。联系该网站的管理员在得到插件更新的帮助。"
+msgstr[1] ""
+"很抱歉，您没有更新%s 插件的正确权限。联系该网站的管理员在得到插件更新的帮助。"
+
+# @ qode
+#: ../simplicity/functions.php:748
+#: ../simplicity/includes/class-tgm-plugin-activation.php:167
+#: functions.php:748 includes/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+msgstr[1] "开始安装插件"
+
+# @ qode
+#: ../simplicity/functions.php:749
+#: ../simplicity/includes/class-tgm-plugin-activation.php:168
+#: functions.php:749 includes/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "激活安装的插件"
+msgstr[1] "激活安装的插件"
+
+# @ qode
+#: ../simplicity/functions.php:750
+#: ../simplicity/includes/class-tgm-plugin-activation.php:169
+#: functions.php:750 includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr "返回到所需的插件安装程序"
+
+# @ qode
+#: ../simplicity/functions.php:751
+#: ../simplicity/includes/class-tgm-plugin-activation.php:171
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1840
+#: functions.php:751 includes/class-tgm-plugin-activation.php:171
+#: includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "插件成功激活。"
+
+# @ qode
+#: ../simplicity/functions.php:752 functions.php:752
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:158
+#: includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "出错了。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:170
+#: includes/class-tgm-plugin-activation.php:170
+#, fuzzy
+msgid "Return to the dashboard"
+msgstr "返回到仪表盘"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:172
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1538
+#: includes/class-tgm-plugin-activation.php:172
+#: includes/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下插件已成功激活："
+msgstr[1] "以下插件已成功激活："
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:173
+#: includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "成功安装并激活所有插件。%1$s"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:174
+#: includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "关闭这个通知"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1085
+#: includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "外部链接"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1090
+#: includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "私人信息库"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1093
+#: includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "预封装"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1097
+#: includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress的版本库"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1100
+#: includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "需要"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1100
+#: includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "推荐"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1103
+#: includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "未安装"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1105
+#: includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "安装但尚未激活"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1275
+#: includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"无插件安装或激活。<a href=\"%1$s\" title=\"Return to the Dashboard\">返回到仪"
+"表板</a>"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1291
+#: includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "插件"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1292
+#: includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "源"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1293
+#: includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "类型"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1294
+#: includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "状态"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1312
+#: includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "安装"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1313
+#: includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "激活"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1823
+#: includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "安装包不可用。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1824
+#: includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "从安装包下载 <span class=\"code\">%s</span>&#8230;"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1825
+#: includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "解压缩中&#8230;"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1826
+#: includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "安装插件&#8230;"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1827
+#: includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "插件安装失败。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1828
+#: includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "插件安装成功。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1839
+#: includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1949
+#: includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"在安装和激活过程已经开始。此过程对某些主机可能需要一段时间，所以请耐心等待。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1950
+#: includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装并成功激活。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1950
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1959
+#: includes/class-tgm-plugin-activation.php:1950
+#: includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "显示详细信息"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1950
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1959
+#: includes/class-tgm-plugin-activation.php:1950
+#: includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "隐藏详细信息"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1951
+#: includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活已经完成。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1952
+#: includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装并激活插件 %1$s (%2$d/%3$d)"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程开始。此过程对某些主机可能需要一段时间，所以请耐心等待。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1957
+#: includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "在安装时发生错误 %1$s: <strong>%2$s</strong>."
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1958
+#: includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "该安装 %1$s 失败。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1959
+#: includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s安装成功。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1960
+#: includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "所有安装都已经完成。"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:1961
+#: includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+# @ qode
+#: ../simplicity/includes/class-tgm-plugin-activation.php:2052
+#: includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "返回到仪表板"
+
+# @ qode
+#: ../simplicity/includes/qode-like.php:74
+#: ../simplicity/includes/qode-like.php:89 includes/qode-like.php:74
+#: includes/qode-like.php:89
+msgid "Like this"
+msgstr "喜欢这个"
+
+# @ qode
+#: ../simplicity/includes/qode-like.php:77
+#: ../simplicity/includes/qode-like.php:92 includes/qode-like.php:77
+#: includes/qode-like.php:92
+msgid "You already like this!"
+msgstr "你已经喜欢这个！"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:277 includes/qode-options.php:277
+#, php-format
+msgid "version %1$s"
+msgstr "版本 %1$s"
+
+#: ../simplicity/includes/qode-options.php:355 includes/qode-options.php:355
+msgid "First main color"
+msgstr "第一主色"
+
+#: ../simplicity/includes/qode-options.php:359 includes/qode-options.php:359
+msgid "Choose first main color"
+msgstr "选择第一主色"
+
+#: ../simplicity/includes/qode-options.php:363 includes/qode-options.php:363
+msgid "Second main color"
+msgstr "第二主色"
+
+#: ../simplicity/includes/qode-options.php:367 includes/qode-options.php:367
+msgid "Choose second main color"
+msgstr "选择第二主色"
+
+#: ../simplicity/includes/qode-options.php:371 includes/qode-options.php:371
+msgid "Third main color"
+msgstr "第三主色"
+
+#: ../simplicity/includes/qode-options.php:375 includes/qode-options.php:375
+msgid "Choose third main color"
+msgstr "选择第三主色"
+
+#: ../simplicity/includes/qode-options.php:379
+#: ../simplicity/includes/qode-options.php:1143
+#: ../simplicity/includes/qode-options.php:1200
+#: ../simplicity/includes/qode-options.php:1526
+#: ../simplicity/includes/qode-options.php:1541
+#: ../simplicity/includes/qode-options.php:1635
+#: ../simplicity/includes/qode-options.php:1698
+#: ../simplicity/includes/qode-options.php:1720 includes/qode-options.php:379
+#: includes/qode-options.php:1143 includes/qode-options.php:1200
+#: includes/qode-options.php:1526 includes/qode-options.php:1541
+#: includes/qode-options.php:1635 includes/qode-options.php:1698
+#: includes/qode-options.php:1720
+msgid "Background color"
+msgstr "背景颜色"
+
+#: ../simplicity/includes/qode-options.php:383 includes/qode-options.php:383
+msgid "Choose background color"
+msgstr "选择背景颜色"
+
+#: ../simplicity/includes/qode-options.php:387 includes/qode-options.php:387
+msgid "Boxed background color"
+msgstr "盒装背景颜色"
+
+#: ../simplicity/includes/qode-options.php:391 includes/qode-options.php:391
+msgid "Choose boxed background color"
+msgstr "选择盒装背景颜色"
+
+#: ../simplicity/includes/qode-options.php:395 includes/qode-options.php:395
+msgid "Highlight color"
+msgstr "高亮颜色"
+
+#: ../simplicity/includes/qode-options.php:399 includes/qode-options.php:399
+msgid "Choose highlight color"
+msgstr "选择高亮颜色"
+
+#: ../simplicity/includes/qode-options.php:403 includes/qode-options.php:403
+msgid "Selection color"
+msgstr "选择颜色"
+
+#: ../simplicity/includes/qode-options.php:407 includes/qode-options.php:407
+msgid "Choose selection color"
+msgstr "选择选取颜色"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:411 includes/qode-options.php:411
+msgid "Background image"
+msgstr "背景图片"
+
+#: ../simplicity/includes/qode-options.php:420 includes/qode-options.php:420
+msgid "Pattern background image"
+msgstr "图案背景图片"
+
+#: ../simplicity/includes/qode-options.php:429 includes/qode-options.php:429
+msgid "Favicon image"
+msgstr "网站图标图像"
+
+#: ../simplicity/includes/qode-options.php:438 includes/qode-options.php:438
+msgid "Google fonts"
+msgstr "谷歌字体"
+
+#: ../simplicity/includes/qode-options.php:447 includes/qode-options.php:447
+msgid "Choose Font"
+msgstr "选择字体"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:451 includes/qode-options.php:451
+msgid "Page transition"
+msgstr "网页过渡"
+
+#: ../simplicity/includes/qode-options.php:460 includes/qode-options.php:460
+msgid ""
+"In order for animation to work properly, you must choose \"Post name\" in "
+"permalinks settings"
+msgstr "为了使动画能够正常工作，您必须选择\"文章名称\" 在固定链接设置"
+
+#: ../simplicity/includes/qode-options.php:464 includes/qode-options.php:464
+msgid "Boxed"
+msgstr "盒装"
+
+#: ../simplicity/includes/qode-options.php:473 includes/qode-options.php:473
+msgid "Loading animation"
+msgstr "载入动画"
+
+#: ../simplicity/includes/qode-options.php:482 includes/qode-options.php:482
+msgid "Loading image"
+msgstr "载入图片"
+
+#: ../simplicity/includes/qode-options.php:491 includes/qode-options.php:491
+msgid "Content entering animation"
+msgstr "内容进入动画"
+
+#: ../simplicity/includes/qode-options.php:500 includes/qode-options.php:500
+msgid "Smooth scroll"
+msgstr "平滑滚动"
+
+#: ../simplicity/includes/qode-options.php:510 includes/qode-options.php:510
+msgid "Responsiveness"
+msgstr "响应"
+
+#: ../simplicity/includes/qode-options.php:519 includes/qode-options.php:519
+msgid "Show back button"
+msgstr "显示后退按钮"
+
+#: ../simplicity/includes/qode-options.php:528 includes/qode-options.php:528
+msgid "Google Analytics Account ID"
+msgstr "谷歌Analytics（分析）帐户ID"
+
+#: ../simplicity/includes/qode-options.php:534 includes/qode-options.php:534
+msgid "List of internal URLs loaded without AJAX (separated with comma)"
+msgstr "没有Ajax加载的内部网址列表（分隔逗号）"
+
+#: ../simplicity/includes/qode-options.php:543 includes/qode-options.php:543
+msgid "Custom css"
+msgstr "自定义CSS"
+
+#: ../simplicity/includes/qode-options.php:552 includes/qode-options.php:552
+msgid "Custom js"
+msgstr "自定义JS"
+
+#: ../simplicity/includes/qode-options.php:557 includes/qode-options.php:557
+msgid "jQuery selector is \"$j\" because of the conflict mode"
+msgstr "jQuery选择器是\"$j\" 因为冲突模式"
+
+#: ../simplicity/includes/qode-options.php:561 includes/qode-options.php:561
+msgid "Meta Keywords"
+msgstr "Meta关键词"
+
+#: ../simplicity/includes/qode-options.php:569 includes/qode-options.php:569
+msgid "Meta Description"
+msgstr "Meta 描述"
+
+#: ../simplicity/includes/qode-options.php:577 includes/qode-options.php:577
+msgid "Disable Qode SEO"
+msgstr "禁用代码搜索引擎优化"
+
+#: ../simplicity/includes/qode-options.php:595 includes/qode-options.php:595
+msgid "H1 style"
+msgstr "H1样式"
+
+#: ../simplicity/includes/qode-options.php:598
+#: ../simplicity/includes/qode-options.php:648
+#: ../simplicity/includes/qode-options.php:699
+#: ../simplicity/includes/qode-options.php:750
+#: ../simplicity/includes/qode-options.php:801
+#: ../simplicity/includes/qode-options.php:852
+#: ../simplicity/includes/qode-options.php:904
+#: ../simplicity/includes/qode-options.php:959
+#: ../simplicity/includes/qode-options.php:1008
+#: ../simplicity/includes/qode-options.php:1146
+#: ../simplicity/includes/qode-options.php:1156
+#: ../simplicity/includes/qode-options.php:1220
+#: ../simplicity/includes/qode-options.php:1276
+#: ../simplicity/includes/qode-options.php:1331
+#: ../simplicity/includes/qode-options.php:1385
+#: ../simplicity/includes/qode-options.php:1560
+#: ../simplicity/includes/qode-options.php:1583
+#: ../simplicity/includes/qode-options.php:1651
+#: ../simplicity/includes/qode-options.php:1709 includes/qode-options.php:598
+#: includes/qode-options.php:648 includes/qode-options.php:699
+#: includes/qode-options.php:750 includes/qode-options.php:801
+#: includes/qode-options.php:852 includes/qode-options.php:904
+#: includes/qode-options.php:959 includes/qode-options.php:1008
+#: includes/qode-options.php:1146 includes/qode-options.php:1156
+#: includes/qode-options.php:1220 includes/qode-options.php:1276
+#: includes/qode-options.php:1331 includes/qode-options.php:1385
+#: includes/qode-options.php:1560 includes/qode-options.php:1583
+#: includes/qode-options.php:1651 includes/qode-options.php:1709
+msgid "Color"
+msgstr "颜色"
+
+#: ../simplicity/includes/qode-options.php:603
+#: ../simplicity/includes/qode-options.php:653
+#: ../simplicity/includes/qode-options.php:704
+#: ../simplicity/includes/qode-options.php:755
+#: ../simplicity/includes/qode-options.php:806
+#: ../simplicity/includes/qode-options.php:857
+#: ../simplicity/includes/qode-options.php:909
+#: ../simplicity/includes/qode-options.php:1013
+#: ../simplicity/includes/qode-options.php:1230
+#: ../simplicity/includes/qode-options.php:1286
+#: ../simplicity/includes/qode-options.php:1341
+#: ../simplicity/includes/qode-options.php:1395
+#: ../simplicity/includes/qode-options.php:1593
+#: ../simplicity/includes/qode-options.php:1656 includes/qode-options.php:603
+#: includes/qode-options.php:653 includes/qode-options.php:704
+#: includes/qode-options.php:755 includes/qode-options.php:806
+#: includes/qode-options.php:857 includes/qode-options.php:909
+#: includes/qode-options.php:1013 includes/qode-options.php:1230
+#: includes/qode-options.php:1286 includes/qode-options.php:1341
+#: includes/qode-options.php:1395 includes/qode-options.php:1593
+#: includes/qode-options.php:1656
+msgid "Font family"
+msgstr "字体家族"
+
+#: ../simplicity/includes/qode-options.php:612
+#: ../simplicity/includes/qode-options.php:662
+#: ../simplicity/includes/qode-options.php:713
+#: ../simplicity/includes/qode-options.php:764
+#: ../simplicity/includes/qode-options.php:815
+#: ../simplicity/includes/qode-options.php:866
+#: ../simplicity/includes/qode-options.php:918
+#: ../simplicity/includes/qode-options.php:1022
+#: ../simplicity/includes/qode-options.php:1239
+#: ../simplicity/includes/qode-options.php:1295
+#: ../simplicity/includes/qode-options.php:1350
+#: ../simplicity/includes/qode-options.php:1404
+#: ../simplicity/includes/qode-options.php:1602
+#: ../simplicity/includes/qode-options.php:1665 includes/qode-options.php:612
+#: includes/qode-options.php:662 includes/qode-options.php:713
+#: includes/qode-options.php:764 includes/qode-options.php:815
+#: includes/qode-options.php:866 includes/qode-options.php:918
+#: includes/qode-options.php:1022 includes/qode-options.php:1239
+#: includes/qode-options.php:1295 includes/qode-options.php:1350
+#: includes/qode-options.php:1404 includes/qode-options.php:1602
+#: includes/qode-options.php:1665
+msgid "Font size (px)"
+msgstr "字体大小（像素）"
+
+#: ../simplicity/includes/qode-options.php:616
+#: ../simplicity/includes/qode-options.php:666
+#: ../simplicity/includes/qode-options.php:717
+#: ../simplicity/includes/qode-options.php:768
+#: ../simplicity/includes/qode-options.php:819
+#: ../simplicity/includes/qode-options.php:870
+#: ../simplicity/includes/qode-options.php:922
+#: ../simplicity/includes/qode-options.php:1026
+#: ../simplicity/includes/qode-options.php:1243
+#: ../simplicity/includes/qode-options.php:1299
+#: ../simplicity/includes/qode-options.php:1354
+#: ../simplicity/includes/qode-options.php:1408
+#: ../simplicity/includes/qode-options.php:1606
+#: ../simplicity/includes/qode-options.php:1669 includes/qode-options.php:616
+#: includes/qode-options.php:666 includes/qode-options.php:717
+#: includes/qode-options.php:768 includes/qode-options.php:819
+#: includes/qode-options.php:870 includes/qode-options.php:922
+#: includes/qode-options.php:1026 includes/qode-options.php:1243
+#: includes/qode-options.php:1299 includes/qode-options.php:1354
+#: includes/qode-options.php:1408 includes/qode-options.php:1606
+#: includes/qode-options.php:1669
+msgid "Line height (px)"
+msgstr "行高（像素）"
+
+#: ../simplicity/includes/qode-options.php:620
+#: ../simplicity/includes/qode-options.php:670
+#: ../simplicity/includes/qode-options.php:721
+#: ../simplicity/includes/qode-options.php:772
+#: ../simplicity/includes/qode-options.php:823
+#: ../simplicity/includes/qode-options.php:874
+#: ../simplicity/includes/qode-options.php:926
+#: ../simplicity/includes/qode-options.php:969
+#: ../simplicity/includes/qode-options.php:1030
+#: ../simplicity/includes/qode-options.php:1247
+#: ../simplicity/includes/qode-options.php:1303
+#: ../simplicity/includes/qode-options.php:1358
+#: ../simplicity/includes/qode-options.php:1412
+#: ../simplicity/includes/qode-options.php:1610
+#: ../simplicity/includes/qode-options.php:1673 includes/qode-options.php:620
+#: includes/qode-options.php:670 includes/qode-options.php:721
+#: includes/qode-options.php:772 includes/qode-options.php:823
+#: includes/qode-options.php:874 includes/qode-options.php:926
+#: includes/qode-options.php:969 includes/qode-options.php:1030
+#: includes/qode-options.php:1247 includes/qode-options.php:1303
+#: includes/qode-options.php:1358 includes/qode-options.php:1412
+#: includes/qode-options.php:1610 includes/qode-options.php:1673
+msgid "Font style"
+msgstr "字体样式"
+
+#: ../simplicity/includes/qode-options.php:629
+#: ../simplicity/includes/qode-options.php:679
+#: ../simplicity/includes/qode-options.php:730
+#: ../simplicity/includes/qode-options.php:781
+#: ../simplicity/includes/qode-options.php:832
+#: ../simplicity/includes/qode-options.php:883
+#: ../simplicity/includes/qode-options.php:935
+#: ../simplicity/includes/qode-options.php:978
+#: ../simplicity/includes/qode-options.php:1039
+#: ../simplicity/includes/qode-options.php:1256
+#: ../simplicity/includes/qode-options.php:1312
+#: ../simplicity/includes/qode-options.php:1366
+#: ../simplicity/includes/qode-options.php:1420
+#: ../simplicity/includes/qode-options.php:1619
+#: ../simplicity/includes/qode-options.php:1682 includes/qode-options.php:629
+#: includes/qode-options.php:679 includes/qode-options.php:730
+#: includes/qode-options.php:781 includes/qode-options.php:832
+#: includes/qode-options.php:883 includes/qode-options.php:935
+#: includes/qode-options.php:978 includes/qode-options.php:1039
+#: includes/qode-options.php:1256 includes/qode-options.php:1312
+#: includes/qode-options.php:1366 includes/qode-options.php:1420
+#: includes/qode-options.php:1619 includes/qode-options.php:1682
+msgid "Font weight"
+msgstr "字体加粗"
+
+#: ../simplicity/includes/qode-options.php:645 includes/qode-options.php:645
+msgid "H2 style"
+msgstr "H2样式"
+
+#: ../simplicity/includes/qode-options.php:696 includes/qode-options.php:696
+msgid "H3 style"
+msgstr "H3样式"
+
+#: ../simplicity/includes/qode-options.php:747 includes/qode-options.php:747
+msgid "H4 style"
+msgstr "H4样式"
+
+#: ../simplicity/includes/qode-options.php:798 includes/qode-options.php:798
+msgid "H5 style"
+msgstr "H5样式"
+
+#: ../simplicity/includes/qode-options.php:849 includes/qode-options.php:849
+msgid "H6 style"
+msgstr "H6样式"
+
+#: ../simplicity/includes/qode-options.php:901
+#: ../simplicity/includes/qode-options.php:1706 includes/qode-options.php:901
+#: includes/qode-options.php:1706
+msgid "Text style"
+msgstr "文本样式"
+
+#: ../simplicity/includes/qode-options.php:950 includes/qode-options.php:950
+msgid "Top/Bottom margin (px)"
+msgstr "顶部/底部外边距（PX）"
+
+#: ../simplicity/includes/qode-options.php:956 includes/qode-options.php:956
+msgid "Link style"
+msgstr "链接样式"
+
+#: ../simplicity/includes/qode-options.php:964
+#: ../simplicity/includes/qode-options.php:1588 includes/qode-options.php:964
+#: includes/qode-options.php:1588
+msgid "Hover color"
+msgstr "悬停颜色"
+
+#: ../simplicity/includes/qode-options.php:993 includes/qode-options.php:993
+msgid "Font decoration"
+msgstr "字体装饰"
+
+#: ../simplicity/includes/qode-options.php:1005 includes/qode-options.php:1005
+msgid "Page title style"
+msgstr "页面标题样式"
+
+#: ../simplicity/includes/qode-options.php:1064 includes/qode-options.php:1064
+msgid "Bar number"
+msgstr "栏数目"
+
+#: ../simplicity/includes/qode-options.php:1079 includes/qode-options.php:1079
+msgid "Bar colors"
+msgstr "栏的颜色"
+
+#: ../simplicity/includes/qode-options.php:1082 includes/qode-options.php:1082
+msgid "1st bar"
+msgstr "第一栏"
+
+#: ../simplicity/includes/qode-options.php:1087 includes/qode-options.php:1087
+msgid "2nd bar"
+msgstr "第二栏"
+
+#: ../simplicity/includes/qode-options.php:1092 includes/qode-options.php:1092
+msgid "3rd bar"
+msgstr "第三栏"
+
+#: ../simplicity/includes/qode-options.php:1097 includes/qode-options.php:1097
+msgid "4th bar"
+msgstr "第四栏"
+
+#: ../simplicity/includes/qode-options.php:1102 includes/qode-options.php:1102
+msgid "5th bar"
+msgstr "第五栏"
+
+#: ../simplicity/includes/qode-options.php:1107 includes/qode-options.php:1107
+msgid "6th bar"
+msgstr "第六栏"
+
+#: ../simplicity/includes/qode-options.php:1113 includes/qode-options.php:1113
+msgid "7th bar"
+msgstr "第七栏"
+
+#: ../simplicity/includes/qode-options.php:1118 includes/qode-options.php:1118
+msgid "8th bar"
+msgstr "第八栏"
+
+#: ../simplicity/includes/qode-options.php:1132 includes/qode-options.php:1132
+msgid "Show header widget area"
+msgstr "显示页眉小工具区域"
+
+#: ../simplicity/includes/qode-options.php:1153 includes/qode-options.php:1153
+msgid "Background color (sticky)"
+msgstr "背景颜色（置顶）"
+
+#: ../simplicity/includes/qode-options.php:1163 includes/qode-options.php:1163
+msgid "Logo"
+msgstr "标志"
+
+#: ../simplicity/includes/qode-options.php:1166 includes/qode-options.php:1166
+msgid "Logo image"
+msgstr "标志图像"
+
+#: ../simplicity/includes/qode-options.php:1171 includes/qode-options.php:1171
+msgid "Logo image (sticky header)"
+msgstr "标志图像（置顶标头）"
+
+#: ../simplicity/includes/qode-options.php:1178 includes/qode-options.php:1178
+msgid "Center logo"
+msgstr "中心标志"
+
+#: ../simplicity/includes/qode-options.php:1187 includes/qode-options.php:1187
+msgid "Header height"
+msgstr "页眉高度"
+
+#: ../simplicity/includes/qode-options.php:1190 includes/qode-options.php:1190
+msgid "Menu item top/bottom padding (px)"
+msgstr "菜单项顶部/底部内边距（PX）"
+
+#: ../simplicity/includes/qode-options.php:1192 includes/qode-options.php:1192
+msgid ""
+"Top/Bottom padding effect on header height, set paddings to increase/"
+"decrease header height"
+msgstr "顶部/底部填充在页眉高度效果，设置填充，以增加/减少页眉高度"
+
+#: ../simplicity/includes/qode-options.php:1197 includes/qode-options.php:1197
+msgid "Dropdown main menu"
+msgstr "下拉主菜单"
+
+#: ../simplicity/includes/qode-options.php:1205 includes/qode-options.php:1205
+msgid "Item background hover color (focused)"
+msgstr "项目背景悬停颜色（聚焦）"
+
+#: ../simplicity/includes/qode-options.php:1210 includes/qode-options.php:1210
+msgid "Item background hover color (blured)"
+msgstr "项目背景悬停颜色（模糊）"
+
+#: ../simplicity/includes/qode-options.php:1217 includes/qode-options.php:1217
+msgid "1st level menu style"
+msgstr "第一级菜单样式"
+
+#: ../simplicity/includes/qode-options.php:1225
+#: ../simplicity/includes/qode-options.php:1281
+#: ../simplicity/includes/qode-options.php:1336
+#: ../simplicity/includes/qode-options.php:1390 includes/qode-options.php:1225
+#: includes/qode-options.php:1281 includes/qode-options.php:1336
+#: includes/qode-options.php:1390
+msgid "Hover/Active color"
+msgstr "悬停/激活颜色"
+
+#: ../simplicity/includes/qode-options.php:1273 includes/qode-options.php:1273
+msgid "2nd level menu style"
+msgstr "二级菜单样式"
+
+#: ../simplicity/includes/qode-options.php:1328 includes/qode-options.php:1328
+msgid "3rd level menu style"
+msgstr "三级菜单样式"
+
+#: ../simplicity/includes/qode-options.php:1382 includes/qode-options.php:1382
+msgid "Mobile menu style"
+msgstr "移动菜单样式"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1436
+#: ../simplicity/includes/qode-options.php:2078 includes/qode-options.php:1436
+#: includes/qode-options.php:2078
+msgid "Title"
+msgstr "标题"
+
+#: ../simplicity/includes/qode-options.php:1439 includes/qode-options.php:1439
+msgid "Responsive title image"
+msgstr "响应标题图像"
+
+#: ../simplicity/includes/qode-options.php:1446 includes/qode-options.php:1446
+msgid "Title image"
+msgstr "标题图像"
+
+#: ../simplicity/includes/qode-options.php:1452 includes/qode-options.php:1452
+msgid "Fixed title image"
+msgstr "固定标题图像"
+
+#: ../simplicity/includes/qode-options.php:1457
+#: ../simplicity/includes/qode-options.php:1462 includes/qode-options.php:1457
+#: includes/qode-options.php:1462
+msgid "Only if title image is not responsive"
+msgstr "只有当标题图像不响应"
+
+#: ../simplicity/includes/qode-options.php:1460 includes/qode-options.php:1460
+msgid "Title height (px)"
+msgstr "标题高度（像素）"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1466 includes/qode-options.php:1466
+msgid "Title position"
+msgstr "标题位置"
+
+#: ../simplicity/includes/qode-options.php:1477 includes/qode-options.php:1477
+msgid "Show brands area"
+msgstr "显示品牌区"
+
+#: ../simplicity/includes/qode-options.php:1489 includes/qode-options.php:1489
+msgid "Show footer top"
+msgstr "显示页脚顶部"
+
+#: ../simplicity/includes/qode-options.php:1501 includes/qode-options.php:1501
+msgid "Show footer bootm"
+msgstr "显示页脚底部"
+
+#: ../simplicity/includes/qode-options.php:1513 includes/qode-options.php:1513
+msgid "Footer top colors"
+msgstr "页脚顶部的颜色"
+
+#: ../simplicity/includes/qode-options.php:1516 includes/qode-options.php:1516
+msgid "Title color"
+msgstr "标题颜色"
+
+#: ../simplicity/includes/qode-options.php:1521
+#: ../simplicity/includes/qode-options.php:1536 includes/qode-options.php:1521
+#: includes/qode-options.php:1536
+msgid "Text color"
+msgstr "文字颜色"
+
+#: ../simplicity/includes/qode-options.php:1533 includes/qode-options.php:1533
+msgid "Footer bottom colors"
+msgstr "页脚底部的颜色"
+
+#: ../simplicity/includes/qode-options.php:1557 includes/qode-options.php:1557
+msgid "Big separator"
+msgstr "大分离器"
+
+#: ../simplicity/includes/qode-options.php:1565 includes/qode-options.php:1565
+msgid "Thickness (px)"
+msgstr "厚度（PX）"
+
+#: ../simplicity/includes/qode-options.php:1569 includes/qode-options.php:1569
+msgid "Top margin (px)"
+msgstr "顶部外边距 (px)"
+
+#: ../simplicity/includes/qode-options.php:1573 includes/qode-options.php:1573
+msgid "Bottom margin (px)"
+msgstr "底部外边距 (px)"
+
+#: ../simplicity/includes/qode-options.php:1580 includes/qode-options.php:1580
+msgid "Button style"
+msgstr "按钮样式"
+
+#: ../simplicity/includes/qode-options.php:1640 includes/qode-options.php:1640
+msgid "Background hover color"
+msgstr "背景悬停颜色"
+
+#: ../simplicity/includes/qode-options.php:1648 includes/qode-options.php:1648
+msgid "Message box style"
+msgstr "消息框样式"
+
+#: ../simplicity/includes/qode-options.php:1717 includes/qode-options.php:1717
+msgid "Smooth scroll style"
+msgstr "平滑滚动样式"
+
+#: ../simplicity/includes/qode-options.php:1725 includes/qode-options.php:1725
+msgid "Bar color"
+msgstr "栏色"
+
+#: ../simplicity/includes/qode-options.php:1740 includes/qode-options.php:1740
+msgid "Parallax speed"
+msgstr "视差速度"
+
+#: ../simplicity/includes/qode-options.php:1748 includes/qode-options.php:1748
+msgid "Parallax on touch devices"
+msgstr "视差的触摸设备"
+
+#: ../simplicity/includes/qode-options.php:1759 includes/qode-options.php:1759
+msgid "Parallax min height (px)"
+msgstr "视差最小高度（像素）"
+
+#: ../simplicity/includes/qode-options.php:1763 includes/qode-options.php:1763
+msgid "Set min-height for last two stages"
+msgstr "设置最小高度为最后两个阶段"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1776 includes/qode-options.php:1776
+msgid "Portfolio style"
+msgstr "作品样式"
+
+#: ../simplicity/includes/qode-options.php:1789 includes/qode-options.php:1789
+msgid "Lightbox for single project"
+msgstr "收藏夹的单个项目"
+
+#: ../simplicity/includes/qode-options.php:1800 includes/qode-options.php:1800
+msgid "Number of columns for Portfolio gallery style"
+msgstr "对于作品的画廊样式的列数"
+
+#: ../simplicity/includes/qode-options.php:1821 includes/qode-options.php:1821
+msgid "Pagination"
+msgstr "分页"
+
+#: ../simplicity/includes/qode-options.php:1830 includes/qode-options.php:1830
+msgid "Choose blog layout"
+msgstr "选择博客布局"
+
+#: ../simplicity/includes/qode-options.php:1833 includes/qode-options.php:1833
+msgid "Blog Standard"
+msgstr "博客标准"
+
+#: ../simplicity/includes/qode-options.php:1834 includes/qode-options.php:1834
+msgid "Blog Full Width Image"
+msgstr "博客全宽图片"
+
+#: ../simplicity/includes/qode-options.php:1835 includes/qode-options.php:1835
+msgid "Blog Boxed"
+msgstr "博客盒装"
+
+#: ../simplicity/includes/qode-options.php:1840 includes/qode-options.php:1840
+msgid "Blog sidebar"
+msgstr "博客侧边栏"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1850 includes/qode-options.php:1850
+msgid "For category list"
+msgstr "对于分类列表"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1854 includes/qode-options.php:1854
+msgid "Hide comments"
+msgstr "隐藏评论"
+
+#: ../simplicity/includes/qode-options.php:1863 includes/qode-options.php:1863
+msgid "Page Range For Pagination"
+msgstr "对于分页页面范围"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1869 includes/qode-options.php:1869
+msgid "Number of characters"
+msgstr "字符数"
+
+#: ../simplicity/includes/qode-options.php:1872 includes/qode-options.php:1872
+msgid "Number of characters in blog listing"
+msgstr "在博客的字符数列表"
+
+#: ../simplicity/includes/qode-options.php:1877 includes/qode-options.php:1877
+msgid "Sidebar layout"
+msgstr "边栏布局"
+
+#: ../simplicity/includes/qode-options.php:1890 includes/qode-options.php:1890
+msgid "Sidebar to display"
+msgstr "边栏显示"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1912 includes/qode-options.php:1912
+msgid "Contact page"
+msgstr "联系方式页面"
+
+#: ../simplicity/includes/qode-options.php:1917 includes/qode-options.php:1917
+msgid "Mail send to"
+msgstr "邮件发送到"
+
+#: ../simplicity/includes/qode-options.php:1923 includes/qode-options.php:1923
+msgid "Enable Contact Form"
+msgstr "启用联系表格"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1932 includes/qode-options.php:1932
+msgid "Hide Website Field"
+msgstr "隐藏网址字段"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1941 includes/qode-options.php:1941
+msgid "Email From"
+msgstr "电子邮件表单"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:1947 includes/qode-options.php:1947
+msgid "Email Subject"
+msgstr "邮件主题"
+
+#: ../simplicity/includes/qode-options.php:1953 includes/qode-options.php:1953
+msgid "Use reCaptcha"
+msgstr "使用验证码"
+
+#: ../simplicity/includes/qode-options.php:1962 includes/qode-options.php:1962
+msgid "ReCaptcha public key"
+msgstr "验证码的公开密钥"
+
+#: ../simplicity/includes/qode-options.php:1969 includes/qode-options.php:1969
+msgid "ReCaptcha private key"
+msgstr "验证码的私人密钥"
+
+#: ../simplicity/includes/qode-options.php:1975 includes/qode-options.php:1975
+msgid "Heading above contact form"
+msgstr "标题上面的联系表格"
+
+#: ../simplicity/includes/qode-options.php:1981 includes/qode-options.php:1981
+msgid "Enable Google Map"
+msgstr "启用谷歌地图"
+
+#: ../simplicity/includes/qode-options.php:1991 includes/qode-options.php:1991
+msgid "Pin image"
+msgstr "针图像"
+
+#: ../simplicity/includes/qode-options.php:2000 includes/qode-options.php:2000
+msgid "Google map address"
+msgstr "谷歌地图地址"
+
+#: ../simplicity/includes/qode-options.php:2006 includes/qode-options.php:2006
+msgid "Google map address 2"
+msgstr "谷歌地图地址2"
+
+#: ../simplicity/includes/qode-options.php:2012 includes/qode-options.php:2012
+msgid "Google map address 3"
+msgstr "谷歌地图地址3"
+
+#: ../simplicity/includes/qode-options.php:2018 includes/qode-options.php:2018
+msgid "Google map address 4"
+msgstr "谷歌地图地址4"
+
+#: ../simplicity/includes/qode-options.php:2024 includes/qode-options.php:2024
+msgid "Google map address 5"
+msgstr "谷歌地图地址5"
+
+#: ../simplicity/includes/qode-options.php:2030 includes/qode-options.php:2030
+msgid "Google map zoom"
+msgstr "谷歌地图缩放"
+
+#: ../simplicity/includes/qode-options.php:2036 includes/qode-options.php:2036
+msgid "Google map height (px)"
+msgstr "谷歌地图的高度（像素）"
+
+#: ../simplicity/includes/qode-options.php:2042 includes/qode-options.php:2042
+msgid "Google map style"
+msgstr "谷歌地图样式"
+
+#: ../simplicity/includes/qode-options.php:2051 includes/qode-options.php:2051
+msgid "Google map color"
+msgstr "谷歌地图颜色"
+
+#: ../simplicity/includes/qode-options.php:2060 includes/qode-options.php:2060
+msgid "Google map scroll on mouse wheel"
+msgstr "鼠标滚轮滚动谷歌地图"
+
+#: ../simplicity/includes/qode-options.php:2084 includes/qode-options.php:2084
+msgid "Subtitle"
+msgstr "字幕"
+
+#: ../simplicity/includes/qode-options.php:2090 includes/qode-options.php:2090
+msgid "Text"
+msgstr "文本"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:2096 includes/qode-options.php:2096
+msgid "Back to home label"
+msgstr "返回首页标签"
+
+#: ../simplicity/includes/qode-options.php:2110 includes/qode-options.php:2110
+msgid "Enable Social Share"
+msgstr "启用社会分享"
+
+#: ../simplicity/includes/qode-options.php:2119 includes/qode-options.php:2119
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../simplicity/includes/qode-options.php:2122 includes/qode-options.php:2122
+msgid "Enable Facebook"
+msgstr "启用 Facebook"
+
+# @ qode
+#: ../simplicity/includes/qode-options.php:2129
+#: ../simplicity/includes/qode-options.php:2146
+#: ../simplicity/includes/qode-options.php:2167 includes/qode-options.php:2129
+#: includes/qode-options.php:2146 includes/qode-options.php:2167
+msgid "Share Icon"
+msgstr "分享图标"
+
+#: ../simplicity/includes/qode-options.php:2136 includes/qode-options.php:2136
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../simplicity/includes/qode-options.php:2139 includes/qode-options.php:2139
+msgid "Enable Twitter"
+msgstr "启用Twitter"
+
+#: ../simplicity/includes/qode-options.php:2151 includes/qode-options.php:2151
+msgid "Via"
+msgstr "通过"
+
+#: ../simplicity/includes/qode-options.php:2157 includes/qode-options.php:2157
+msgid "Google +"
+msgstr "谷歌加"
+
+#: ../simplicity/includes/qode-options.php:2160 includes/qode-options.php:2160
+msgid "Enable Google +"
+msgstr "启用谷歌加"
+
+#: ../simplicity/includes/qode-options.php:2174 includes/qode-options.php:2174
+msgid "Show For"
+msgstr "显示为"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:558 includes/shortcodes.php:558
+msgid "All"
+msgstr "所有"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:689 includes/shortcodes.php:689
+msgid "Sorry, no posts matched your criteria."
+msgstr "对不起，没有文章符合您的标准。"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:696 includes/shortcodes.php:696
+msgid "Load More"
+msgstr "加载更多"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:891
+#: ../simplicity/includes/shortcodes.php:892 includes/shortcodes.php:891
+#: includes/shortcodes.php:892
+msgid "Share"
+msgstr "共享"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:905 includes/shortcodes.php:905
+msgid "Like"
+msgstr "喜欢"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:917 includes/shortcodes.php:917
+msgid "Plus"
+msgstr "加"
+
+# @ qode
+#: ../simplicity/includes/shortcodes.php:929 includes/shortcodes.php:929
+msgid "Tweet"
+msgstr "Tweet"
+
+# @ qode
+#: ../simplicity/js/default_dynamic.php:18 js/default_dynamic.php:18
+msgid "Comment has been sent!"
+msgstr "评论已发送！"
+
+# @ qode
+#: ../simplicity/search.php:64 search.php:64
+msgid "SEARCH"
+msgstr "搜索"
+
+# @ qode
+#: ../simplicity/single-portfolio_page.php:248
+#: ../simplicity/single-portfolio_page.php:362
+#: ../simplicity/single-portfolio_page.php:469
+#: ../simplicity/single-portfolio_page.php:645
+#: ../simplicity/single-portfolio_page.php:790 single-portfolio_page.php:248
+#: single-portfolio_page.php:362 single-portfolio_page.php:469
+#: single-portfolio_page.php:645 single-portfolio_page.php:790
+msgid "Date"
+msgstr "日期"
+
+# @ qode
+#: ../simplicity/single-portfolio_page.php:253
+#: ../simplicity/single-portfolio_page.php:367 single-portfolio_page.php:253
+#: single-portfolio_page.php:367
+msgid "Category "
+msgstr "类别"
+
+# @ qode
+#: ../simplicity/single-portfolio_page.php:269
+#: ../simplicity/single-portfolio_page.php:382
+#: ../simplicity/single-portfolio_page.php:495
+#: ../simplicity/single-portfolio_page.php:671
+#: ../simplicity/single-portfolio_page.php:816 single-portfolio_page.php:269
+#: single-portfolio_page.php:382 single-portfolio_page.php:495
+#: single-portfolio_page.php:671 single-portfolio_page.php:816
+msgid "About"
+msgstr "关于"
+
+# @ qode
+#: ../simplicity/single-portfolio_page.php:278
+#: ../simplicity/single-portfolio_page.php:391
+#: ../simplicity/single-portfolio_page.php:504
+#: ../simplicity/single-portfolio_page.php:534
+#: ../simplicity/single-portfolio_page.php:680
+#: ../simplicity/single-portfolio_page.php:825 single-portfolio_page.php:278
+#: single-portfolio_page.php:391 single-portfolio_page.php:504
+#: single-portfolio_page.php:534 single-portfolio_page.php:680
+#: single-portfolio_page.php:825
+msgid "Previous"
+msgstr "上一个"
+
+# @ qode
+#: ../simplicity/single-portfolio_page.php:282
+#: ../simplicity/single-portfolio_page.php:395
+#: ../simplicity/single-portfolio_page.php:508
+#: ../simplicity/single-portfolio_page.php:538
+#: ../simplicity/single-portfolio_page.php:684
+#: ../simplicity/single-portfolio_page.php:829 single-portfolio_page.php:282
+#: single-portfolio_page.php:395 single-portfolio_page.php:508
+#: single-portfolio_page.php:538 single-portfolio_page.php:684
+#: single-portfolio_page.php:829
+msgid "Next"
+msgstr "下一个"
+
+# @ qode
+#: ../simplicity/single-portfolio_page.php:474
+#: ../simplicity/single-portfolio_page.php:515
+#: ../simplicity/single-portfolio_page.php:650
+#: ../simplicity/single-portfolio_page.php:795 single-portfolio_page.php:474
+#: single-portfolio_page.php:515 single-portfolio_page.php:650
+#: single-portfolio_page.php:795
+msgid "Category: "
+msgstr "类别："
+
+# @ qode
+#: ../simplicity/single.php:67 single.php:67
+msgid "Blog"
+msgstr "博客"
+
+# @ text_domain
+#: ../simplicity/widgets/brand.php:8 widgets/brand.php:8
+msgid "Brand Widget"
+msgstr "品牌小工具"
+
+# @ qode
+#: ../simplicity/widgets/brand.php:45
+#: ../simplicity/widgets/relate_posts_widget.php:75 widgets/brand.php:45
+#: widgets/relate_posts_widget.php:75
+msgid "Title:"
+msgstr "标题："
+
+# @ qode
+#: ../simplicity/widgets/brand.php:49 widgets/brand.php:49
+msgid "Link:"
+msgstr "友情链接："
+
+# @ qode
+#: ../simplicity/widgets/brand.php:53 widgets/brand.php:53
+msgid "Image:"
+msgstr "图片："
+
+# @ text_domain
+#: ../simplicity/widgets/relate_posts_widget.php:8
+#: widgets/relate_posts_widget.php:8
+msgid "Related Posts Widget"
+msgstr "相关文章小工具"
+
+# @ qode
+#: ../simplicity/widgets/relate_posts_widget.php:15
+#: widgets/relate_posts_widget.php:15
+msgid "Related Posts"
+msgstr "相关文章"
+
+# @ qode
+#: ../simplicity/widgets/relate_posts_widget.php:79
+#: widgets/relate_posts_widget.php:79
+msgid "Number of posts:"
+msgstr "文章数："
